@@ -4,8 +4,10 @@
 
 ## 快速开始
 
-将bin/Debug/net8.0-windows/HttpSharp.dll放入".\你的era的游戏目录\plugins"即可使用
+将bin/Debug/net8.0-windows/HttpSharp.dll放入".\你的era的游戏目录\plugins"即可使用 
+
 本插件更多面向于想在口上或其它玩法功能上接入ai的创作者
+
 本插件附带readme（就是这个文件，，，） vibe coding时可以将本文件发送给ai
 
 ```erb
